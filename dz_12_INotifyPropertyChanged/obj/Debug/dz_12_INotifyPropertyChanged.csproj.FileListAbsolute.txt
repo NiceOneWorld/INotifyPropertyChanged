@@ -1,0 +1,14 @@
+D:\Step\C#\dzC#\dz_12_INotifyPropertyChanged\dz_12_INotifyPropertyChanged\bin\Debug\dz_12_INotifyPropertyChanged.exe.config
+D:\Step\C#\dzC#\dz_12_INotifyPropertyChanged\dz_12_INotifyPropertyChanged\bin\Debug\dz_12_INotifyPropertyChanged.exe
+D:\Step\C#\dzC#\dz_12_INotifyPropertyChanged\dz_12_INotifyPropertyChanged\bin\Debug\dz_12_INotifyPropertyChanged.pdb
+D:\Step\C#\dzC#\dz_12_INotifyPropertyChanged\dz_12_INotifyPropertyChanged\obj\Debug\dz_12_INotifyPropertyChanged.csprojAssemblyReference.cache
+D:\Step\C#\dzC#\dz_12_INotifyPropertyChanged\dz_12_INotifyPropertyChanged\obj\Debug\dz_12_INotifyPropertyChanged.csproj.CoreCompileInputs.cache
+D:\Step\C#\dzC#\dz_12_INotifyPropertyChanged\dz_12_INotifyPropertyChanged\obj\Debug\dz_12_INotifyPropertyChanged.exe
+D:\Step\C#\dzC#\dz_12_INotifyPropertyChanged\dz_12_INotifyPropertyChanged\obj\Debug\dz_12_INotifyPropertyChanged.pdb
+C:\Users\vlady\OneDrive\Рабочий стол\string\dz_12_INotifyPropertyChanged\bin\Debug\dz_12_INotifyPropertyChanged.exe.config
+C:\Users\vlady\OneDrive\Рабочий стол\string\dz_12_INotifyPropertyChanged\bin\Debug\dz_12_INotifyPropertyChanged.exe
+C:\Users\vlady\OneDrive\Рабочий стол\string\dz_12_INotifyPropertyChanged\bin\Debug\dz_12_INotifyPropertyChanged.pdb
+C:\Users\vlady\OneDrive\Рабочий стол\string\dz_12_INotifyPropertyChanged\obj\Debug\dz_12_INotifyPropertyChanged.csprojAssemblyReference.cache
+C:\Users\vlady\OneDrive\Рабочий стол\string\dz_12_INotifyPropertyChanged\obj\Debug\dz_12_INotifyPropertyChanged.csproj.CoreCompileInputs.cache
+C:\Users\vlady\OneDrive\Рабочий стол\string\dz_12_INotifyPropertyChanged\obj\Debug\dz_12_INotifyPropertyChanged.exe
+C:\Users\vlady\OneDrive\Рабочий стол\string\dz_12_INotifyPropertyChanged\obj\Debug\dz_12_INotifyPropertyChanged.pdb

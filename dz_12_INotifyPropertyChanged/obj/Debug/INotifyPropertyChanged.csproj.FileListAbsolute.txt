@@ -1,0 +1,7 @@
+D:\AcademiaCode\string\dz_12_INotifyPropertyChanged\bin\Debug\dz_12_INotifyPropertyChanged.exe.config
+D:\AcademiaCode\string\dz_12_INotifyPropertyChanged\bin\Debug\dz_12_INotifyPropertyChanged.exe
+D:\AcademiaCode\string\dz_12_INotifyPropertyChanged\bin\Debug\dz_12_INotifyPropertyChanged.pdb
+D:\AcademiaCode\string\dz_12_INotifyPropertyChanged\obj\Debug\INotifyPropertyChanged.csprojAssemblyReference.cache
+D:\AcademiaCode\string\dz_12_INotifyPropertyChanged\obj\Debug\INotifyPropertyChanged.csproj.CoreCompileInputs.cache
+D:\AcademiaCode\string\dz_12_INotifyPropertyChanged\obj\Debug\dz_12_INotifyPropertyChanged.exe
+D:\AcademiaCode\string\dz_12_INotifyPropertyChanged\obj\Debug\dz_12_INotifyPropertyChanged.pdb
